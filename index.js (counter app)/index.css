@@ -1,0 +1,25 @@
+body{
+     background-image: linear-gradient(to left , #ff0000 , rgba(128, 0, 128, 0.402) , rgba(180, 109, 121, 0.619)); 
+    text-align: center;
+}
+
+
+
+h1 , h2{
+    
+    text-align: center;
+    
+    font-size: 2rem;
+}
+button{
+    border-radius: 7px;
+    padding: 5px;
+    background-color: rgba(118, 91, 91, 0.083);
+}
+.save{
+    border-radius: 7px;
+    padding-left: 15px;
+    padding-right: 37px;
+    size: 5px;
+    background-image: radial-gradient(blue);
+}
